@@ -1,0 +1,14 @@
+.header{
+    background-color: red;
+    display: flex;
+}
+
+.titulo-header{
+    color: white;
+}
+
+.container{
+    font-size: 20px;
+    background-color: aliceblue;
+    display: flex;
+}
