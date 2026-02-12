@@ -12,3 +12,22 @@
     background-color: aliceblue;
     display: flex;
 }
+
+.noticias{
+    background-color: lightblue;
+}
+
+.titulo-noticias{
+    color: black;
+}
+
+.noticias p{
+    font-size: 15px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+}
